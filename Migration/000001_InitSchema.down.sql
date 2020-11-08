@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS Store;
+Drop TABLE IF EXISTS Product;
