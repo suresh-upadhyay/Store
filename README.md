@@ -23,6 +23,7 @@ pg_ctl -D /usr/local/var/postgres start
 
     go get -u github.com/gorilla/mux 
     go get -u github.com/lib/pq
+     go get -u "github.com/go-chi/chi"
 
 # Runing the application
 
